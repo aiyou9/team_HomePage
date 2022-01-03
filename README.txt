@@ -8,7 +8,7 @@
  
 3、参考https://blog.csdn.net/yuexianchang/article/details/53431703  设置githubpage，好像也就改个库名，其他自动识别，在下拉页面，看到github page 选项打钩，就说明部署成功，访问后，登录自己子账号，创建一下team的meeting，就可以了。
 
-4、他人子账户登录需要对应管理员授权，还在测试哪种授权可以允许登录。
+4、现在他人子账户不能登录了，E5开发者订阅现在限制了开发的应用，仅自己组织内的25个账号可以登录调用。
 
 5、已验证，该静态文件可部署，欢迎注册https://setdiaoyong.github.io  （此api开的比较早，是所有类型微软账号都可以登录的）
 
